@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrea Lopez Bravo
 - 👀 I’m interested in front end web development and art
-- 🌱 I’m currently learning javascript, css and HTML 
+- 🌱 I’m currently learning javascript, CSS and HTML 
 - 💞️ I’m looking to collaborate in diferent projects as a trainee/junior front end web developer
 - 📫 How to reach me: https://www.linkedin.com/in/andrea-l%C3%B3pez-bravo-14787665/ 
 
